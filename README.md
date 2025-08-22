@@ -15,7 +15,7 @@
 
 ## 🌟 Featured Projects
 - [**Banking in BIM**](https://bankinginbim.com): Personal finance blog & banking fee comparison for Barbados
-- [**SBC Arena**](https://sbc-arena.netlify.app): AI-powered catalog for retro handheld gaming devices
+- [**SBC Arena**](https://sbc-arena.netlify.app): Prototype of an AI-assisted catalog for retro handheld gaming devices
 - [**alleyne.dev**](https://alleyne.dev): Personal branding & developer portfolio
 
 ## 🏆 Certifications & Milestones
