@@ -1,6 +1,6 @@
 # Damien Alleyne
 
-**Senior Software Engineer (Back-end) | 12+ years experience | Barbados**
+**Senior Software Engineer (Back-end) | 10+ years experience | Barbados (Remote)**
 
 ---
 
