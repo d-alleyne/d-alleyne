@@ -13,7 +13,7 @@
 ## 🌟 Featured Projects
 - [**GlobalRemote**](https://jobs.alleyne.dev): Remote job platform with interview transparency and company verification
 - [**Banking in BIM**](https://bankinginbim.com): Financial comparison platform for Barbados market with credit card and bank account comparisons
-- [**Automated Proposal Generation**](https://github.com/d-alleyne): n8n workflow converting site audits to business proposals
+- [**Technical Audit & Analysis**](https://github.com/d-alleyne): n8n workflow for systematic website audits and UX assessment
 
 ## 🏆 Experience & Certifications
 - **WordPress.com Internationalization Team:** Contributing to localization features for a global platform serving millions of users across 120+ languages
