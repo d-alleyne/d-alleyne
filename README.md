@@ -39,4 +39,4 @@ Ask the AI assistant on [alleyne.dev](https://alleyne.dev) about my experience. 
 
 Distance runner, astronomy enthusiast, language learner (Japanese and Chinese, beginner).
 
-<sub>Building AI-powered tools for Barbados fintech. Open to senior backend, full-stack, and applied AI opportunities.</sub>
+<sub>Building AI-powered personal finance tools for Barbados. Open to senior backend, full-stack, and applied AI opportunities.</sub>
